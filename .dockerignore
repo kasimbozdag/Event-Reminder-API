@@ -1,0 +1,41 @@
+# .dockerignore
+
+# Python cache files
+**/__pycache__/
+**/*.py[cod]
+*.pyc
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+
+# Environment files
+*.env
+
+# Local development settings
+*.local
+*.log
+
+# Database files
+*.sqlite3
+db.sqlite3
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Git files
+.git/
+.gitignore
+
+# Docker files (excluding docker-entrypoint.sh)
+docker-compose.yml
+docker-compose.override.yml
+Dockerfile
+
+# Tests and documentation
+tests/
+docs/
