@@ -39,7 +39,6 @@ A RESTful backend service built with Django and Django REST Framework that allow
 - **Reminder Notifications Simulation**: Retrieve events happening in the next 24 hours.
 - **Categorization**: Categorize events (e.g., Work, Personal, Health) and retrieve events by category.
 - **Personalized Reminder Timings**: Set custom reminder times for events.
-- **Innovative Features**: Contextual reminders and more to enhance user experience.
 
 ---
 
